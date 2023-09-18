@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Panel" style="width: 15%; height: 60%; top: 20%; align-items: center; background-image: url(&apos;project://database/Assets/!AssetStore/GUI_Parts/Gui_parts/mid_background.png?fileID=2800000&amp;guid=f203f165ae401fe46ada0ed50d07149c&amp;type=3#mid_background&apos;); justify-content: flex-start; visibility: hidden;">
+        <ui:VisualElement style="width: 80%; height: 80%; top: 5%; flex-direction: column; align-items: stretch; justify-content: flex-start;">
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job1" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job2" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job3" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job4" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job5" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job6" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job7" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job8" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job9" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" name="Job10" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
